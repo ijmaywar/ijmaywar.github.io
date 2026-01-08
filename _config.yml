@@ -2,7 +2,6 @@
 title: Ian Maywar
 description: An overview of my projects
 url: "https://ijmaywar.github.io"
-baseurl: "/ijmaywar"   # use "" if this is a user/organization site
 
 # GitHub Pages theme
 theme: jekyll-theme-slate
