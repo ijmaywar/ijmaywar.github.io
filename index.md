@@ -1,7 +1,8 @@
 ---
 layout: default
-title: Ian Maywar
+title: Home
 ---
 
 # Ian Maywar
+
 Welcome to my site.
