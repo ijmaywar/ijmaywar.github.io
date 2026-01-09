@@ -1,3 +1,0 @@
-# Ian Maywar
-
-    Projects 

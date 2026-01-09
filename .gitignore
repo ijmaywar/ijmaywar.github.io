@@ -1,0 +1,12 @@
+# Jekyll build output
+_site/
+index.html
+projects.html
+
+# OS files
+.DS_Store
+
+# R session files
+.Rhistory
+.RData
+.Rproj.user/
