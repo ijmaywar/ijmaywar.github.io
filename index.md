@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Ian Maywar
+title: home
 ---
 
 # Ian Maywar
