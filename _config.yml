@@ -5,3 +5,7 @@ theme: jekyll-theme-slate
 # Prevent readme from being used to build site
 readme_index:
   enabled: false
+
+# Disable GitHub links
+github:
+  is_project_page: false
