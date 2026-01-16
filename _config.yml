@@ -10,5 +10,3 @@ readme_index:
 # Disable GitHub links
 github:
   is_project_page: false
-
-sub { vertical-align: sub; font-size: 0.75em; }
