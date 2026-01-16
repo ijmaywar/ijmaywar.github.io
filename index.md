@@ -5,36 +5,32 @@ title: home
 
 ## About Me
 
-<div style="display: flex; align-items: flex-start; gap: 1.5rem;">
+<div style="display: flex; align-items: flex-start; gap: 0.25rem;">
 
   <img src="{{ '/assets/images/headshot_square.jpeg' | relative_url }}"
        alt="Headshot"
-       width="260">
+       width="310">
+  
+  <img src="{{ '/assets/images/alps_valley_square.jpg' | relative_url }}"
+     alt="Alps Valley"
+     width="310">
 
-  <div>
-    <p>
-      I am a Research Associate at the CUNY Advanced Science Research Center. 
-      I use Python, R and SQL for data analysis and visualization. 
-      My work has primarily spanned environmental and ecological projects. 
-    </p>
-    
-    <p>
-      Please reach out if you have questions or want to chat! <br>
-      – <a href="mailto:ijmaywar@gmail.com" target="_blank" rel="noopener noreferrer">Email</a> <br>
-      – <a href="https://github.com/ijmaywar" target="_blank" rel="noopener noreferrer">GitHub</a> <br>
-      – <a href="https://www.linkedin.com/in/ian-maywar" target="_blank" rel="noopener noreferrer">LinkedIn</a> <br>
-    </p>
-    
-  </div>
 </div>
+
+<p align="center">
+    I am a Research Associate at the CUNY Advanced Science Research Center. 
+    I use Python, R and SQL for data analysis and visualization.
+</p>
+
 <br>
 
 ## Featured Projects
+(See full list of projects [here](projects))
 
 ### 1) [NASA GLOBE](projects/nasa-globe)
 - **Publication:** in progress...check back soon
 
-### 2) [Albatross Flight Performance](projects/albatross-flight-performance)
+### 2) [Albatross Flight Performance](projects/albatross-flight)
 My Masters thesis work on the effects of winds and waves on albatross flight performance.
 - **Publication:** [Differential impacts of wind and waves on albatross flight performance in two ocean basins](https://link.springer.com/article/10.1186/s40462-025-00614-w)
 
@@ -44,11 +40,50 @@ My work with NASA DEVELOP. Quantifying and mapping urban heat mitigation in Chat
 
 <br>
 
-## More Projects
+## Featured Figures
 
-### - Check out my [full list of projects](projects)
+<p align="center">
+  <video width="550" autoplay loop muted playsinline preload="metadata">
+    <source src="{{ '/assets/figures/bird_track_v10.mp4' | relative_url }}" type="video/mp4">
+    Your browser does not support the video tag.
+  </video>
+  
+  <span class="figure-caption">
+    A black-footed albatross foraging off the coast of Midway Atoll in the North Pacific (north of Hawaii).
+    Wind field and wind speed displayed simultaneously with GPS track.<br>
+    Project page:
+    <a href="{{ '/projects/albatross-flight' | relative_url }}">Albatross Flight Performance</a>.
+  </span>
+</p>
 
-### - Alternatively, here is my [resume](resume)
+<br>
+
+{% include figure.html
+   src="/assets/figures/GAM_V_2.png"
+   caption="The outputs of a GAM predicting the flap rate of foraging albatrosses using wind speed and wave height predictors."
+   project_url="/projects/albatross-flight"
+   project_text="Albatross Flight Performance"
+%}
+
+<br>
+
+{% include figure.html
+   src="/assets/figures/ATN_map.png"
+   caption="The distribution of air temperature measurements from the NASA GLOBE program. 
+            Data originating from equal-area map cells and 10-degree latitude and longitude bands have been scored using a custom metric for data regularity and quantity: 
+            ρ<sub>(R,Q)</sub>."
+   project_url="/projects/nasa-globe"
+   project_text="NASA GLOBE"
+%}
+
+<br>
+
+{% include figure.html
+   src="/assets/figures/invest_map.png"
+   caption="The heat mitigation capacity of Chatham County, Georgia. Heat mitigation index calculated using InVEST Urban Cooling Model."
+   project_url="/projects/urban-heat-mitigation"
+   project_text="Urban Heat Mitigation"
+%}
 
 <br>
 
@@ -68,44 +103,3 @@ Published
 - Xiao Y, Chenghao W, Salman J, **Maywar IJ**, King J, Shahsafi A, Kats MA. 2021. Planck Spectroscopy. *Laser & Photonics Reviews*. <a href="https://doi.org/10.1002/lpor.202100121" target="_blank" rel="noopener noreferrer">https://doi.org/10.1002/lpor.202100121</a> <br>
 
 <br>
-
-## Featured Figures
-
-<p align="center">
-  <video width="600" autoplay loop muted playsinline>
-    <source src="{{ '/assets/figures/bird_track_v10.mp4' | relative_url }}" type="video/mp4">
-    Your browser does not support the video tag.
-  </video>
-</p>
-
-*Explain Figure*
-
-<p align="center">
-  <img src="{{ '/assets/figures/ATN_map.png' | relative_url }}"
-     alt="ATN map"
-     width="600">
-</p>
-
-*Explain Figure*
-
-<p align="center">
-  <img src="{{ '/assets/figures/invest_map.png' | relative_url }}"
-     alt="InVEST map"
-     width="600">
-</p>
-
-*Explain Figure*
-
-<p align="center">
-  <img src="{{ '/assets/figures/GAM_V_2.png' | relative_url }}"
-     alt="Flight performance GAM"
-     width="600">
-</p>
-
-*Explain Figure*
-
-<p align="right">
-  <a href="{{ '/projects' | relative_url }}">Projects</a> →
-</p>
-
-

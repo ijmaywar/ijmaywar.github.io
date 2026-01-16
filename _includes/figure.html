@@ -1,0 +1,17 @@
+<p align="center">
+  <img src="{{ include.src | relative_url }}"
+    width="{{ include.width | default: 550 }}">
+
+  <br>
+
+  <span class="figure-caption">
+    {{ include.caption }}
+    {% if include.project_url %}
+      <br>
+      Project page:
+      <a href="{{ include.project_url | relative_url }}">
+        {{ include.project_text | default: "Project" }}
+      </a>
+    {% endif %}
+  </span>
+</p>

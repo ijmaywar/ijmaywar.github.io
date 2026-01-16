@@ -1,0 +1,152 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+
+
+// FONTS ///////////////////////////////////////
+
+@import url("https://fonts.googleapis.com/css2?family=Libre+Baskerville:wght@400;600;700&display=swap");
+
+// STYLE FOR SUBSCRIPT TEXT
+sub {
+  vertical-align: sub;
+  font-size: 0.75em;
+}
+
+body {
+  font-family: "Libre Baskerville", "Times New Roman", Times, serif;
+//   font-size: 1.125rem;
+//   line-height: 1.5;
+//   outline: 3px solid red;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Libre Baskerville", "Times New Roman", Times, serif;
+}
+
+// h1 { font-size: 3.00rem; }
+// h2 { font-size: 2.50rem; }
+// h3 { font-size: 1.75rem; }
+
+// SET FIGURE CAPTION STYLE
+.figure-caption {
+  font-size: 0.9rem;
+  line-height: 1.45;
+  color: #555;
+  display: inline-block;
+  margin-top: 0.5rem;
+}
+
+
+// IMAGES ///////////////////////////////////////
+
+img {
+  border: none;
+  box-shadow: none;
+  outline: none;
+}
+
+
+// HEADER ///////////////////////////////////////
+
+// Header container
+#header_wrap {
+  background: #1F4D3A;
+  color: #F4F1EA;
+}
+
+// Header spacing
+#header_wrap .inner {
+  padding: 1.25rem 0 1.25rem;
+  text-align: center;
+}
+
+// Title
+#project_title {
+  font-family: "Libre Baskerville", "Times New Roman", Times, serif;
+  font-size: 3rem;
+  font-weight: 100;
+  letter-spacing: 0.02em;
+  margin: 0;
+  color: #F4F1EA;
+  margin-top: 0.25rem;
+}
+
+#project_title a {
+  color: inherit;
+  text-decoration: none;
+}
+
+#project_title a:hover {
+  color: #0B3D2E;
+}
+
+
+// BODY ///////////////////////////////////////
+#main_content_wrap {
+  background-color: #F4F1EA;
+}
+
+
+// FOOTER ///////////////////////////////////////
+
+#footer_wrap {
+  background: #1F4D3A;
+  color: #F4F1EA;
+}
+
+.footer-nav {
+  text-align: center;
+  padding: 1.25rem 0 1.25rem;
+  font-size: 1.25rem;
+  letter-spacing: 0.05em;
+}
+
+.footer-nav a {
+  color: #F4F1EA;
+  text-decoration: none;
+}
+
+.footer-nav a:hover {
+  color: #0B3D2E;
+}
+
+.footer-nav .sep {
+  margin: 0 0.6rem;
+}
+
+.footer-icons {
+  display: flex;
+  justify-content: center;
+  gap: 1.25rem;
+  margin-bottom: 0.75rem;
+}
+
+.footer-icons a {
+  width: 23px;
+  height: 23px;
+  color: #F4F1EA;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  gap: 1.25rem;
+}
+
+.footer-icons svg {
+  width: 100%;
+  height: 100%;
+  fill: currentColor;
+  display: block; /* removes inline SVG baseline quirks */
+}
+
+.footer-icons a:hover {
+   color: #0B3D2E;
+}
+
+.footer-meta {
+  text-align: center;
+  font-size: 1.0rem;
+  color: #F4F1EA;
+}

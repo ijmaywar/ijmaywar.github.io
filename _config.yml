@@ -1,6 +1,7 @@
 title: Ian Maywar
 description: Portfolio
 theme: jekyll-theme-slate
+markdown: kramdown
 
 # Prevent readme from being used to build site
 readme_index:
@@ -9,3 +10,5 @@ readme_index:
 # Disable GitHub links
 github:
   is_project_page: false
+
+sub { vertical-align: sub; font-size: 0.75em; }

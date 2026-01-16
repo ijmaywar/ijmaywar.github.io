@@ -37,13 +37,3 @@ Tracking the community composition of malarial parasites infection common yellow
   - <a href="{{ '/assets/files/Maywar_thesis_2021_supplemental.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">Supplemental Materials</a> <br>
 
 <br>
-
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;">
-  <div>
-    ← <a href="{{ '..' | relative_url }}">Homepage</a>
-  </div>
-
-  <div>
-    <a href="{{ 'projects/nasa-globe' | relative_url }}">NASA GLOBE</a> →
-  </div>
-</div>

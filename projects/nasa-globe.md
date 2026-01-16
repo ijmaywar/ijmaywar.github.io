@@ -28,15 +28,3 @@ Investigating these data provides insight into how citizen science can advance e
 *Explain Figure*
 
 <br>
-
-<div style="display: flex; justify-content: space-between; align-items: center; margin-top: 2rem;">
-  <div>
-    ← <a href="{{ '/projects' | relative_url }}">Projects</a>
-  </div>
-
-  <div>
-    <a href="{{ 'projects/albatross' | relative_url }}">Albatross Flight Performance</a> →
-  </div>
-</div>
-
-⇐  [Homepage](..)
