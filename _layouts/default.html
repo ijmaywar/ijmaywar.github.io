@@ -9,6 +9,21 @@
 
 {% seo %}
     {% include head-custom.html %}
+
+    <script>
+      window.MathJax = {
+        tex: {
+          inlineMath: [['$', '$'], ['\\(', '\\)']],
+          displayMath: [['$$', '$$'], ['\\[', '\\]']],
+          processEscapes: true
+        }
+      };
+    </script>
+
+    <script
+      src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml.js"
+      defer>
+    </script>
   </head>
 
   <body>
@@ -79,6 +94,10 @@
           </a>
         </nav>
 
+        <!-- Last updated info -->
+        <nav class="footer-last-updated">
+          Last updated: {{ site.time | date: "%B %-d, %Y" }}
+        </nav>
       </footer>
     </div>
   </body>

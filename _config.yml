@@ -10,3 +10,7 @@ readme_index:
 # Disable GitHub links
 github:
   is_project_page: false
+
+# Mathjax
+kramdown:
+  math_engine: mathjax

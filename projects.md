@@ -11,19 +11,19 @@ Analysis for environmental citizen science data.
 - Research Associate @ The CUNY Advanced Science Research Center
 - **Publication:** in progress...check back soon
 
-### - [Albatross Flight Performance](albatross-flight-performance)
+### - [Albatross Flight Performance](albatross-flight)
 My Master's thesis about the effects of winds and waves on albatross flight performance.
 - Aug 2022 - Dec 2025
 - Graduate Research Assistant @ Stony Brook University
 - **Publication:** <a href="https://doi.org/10.1186/s40462-025-00614-w" target="_blank" rel="noopener noreferrer">Differential impacts of wind and waves on albatross flight performance in two ocean basins</a> <br>
 
-### - [Urban Heat Mitigation](urban-heat-mitigation)
+### - [Urban Heat Mitigation](urban-heat)
 My NASA DEVELOP project quantifying and mapping urban heat mitigation in Chatham County, Georgia
 - Jan - Apr 2025
 - DEVELOP Researcher @ NASA
 - **Publication:** <a href="https://ntrs.nasa.gov/citations/20250005541" target="_blank" rel="noopener noreferrer">Chatham County Health & Air Quality: Mapping Urban Heat to Identify Priority Mitigation Areas in Chatham County, Georgia</a> <br>
 
-### - [Marine Ecosystem Indicators](marine-ecosystem-indicators)
+### - [Marine Ecosystem Indicators](nyb)
 A quantitative analysis of the health of the New York Bight in conjuction with the NY State Department of Environmental Conservation.
 - Sep - Dec 2024
 - Graduate Research Assistant @ Stony Brook University

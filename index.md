@@ -32,11 +32,11 @@ title: home
 
 ### 2) [Albatross Flight Performance](projects/albatross-flight)
 My Masters thesis work on the effects of winds and waves on albatross flight performance.
-- **Publication:** [Differential impacts of wind and waves on albatross flight performance in two ocean basins](https://link.springer.com/article/10.1186/s40462-025-00614-w)
+- **Publication:** <a href="https://doi.org/10.1186/s40462-025-00614-w" target="_blank" rel="noopener noreferrer">Differential impacts of wind and waves on albatross flight performance in two ocean basins</a> <br>
 
-### 3) [Urban Heat Mitigation](projects/urban-heat-mitigation)
+### 3) [Urban Heat Mitigation](projects/urban-heat)
 My work with NASA DEVELOP. Quantifying and mapping urban heat mitigation in Chatham County, Georgia
-- **Publication:** [Chatham County Health & Air Quality: Mapping Urban Heat to Identify Priority Mitigation Areas in Chatham County, Georgia](https://ntrs.nasa.gov/citations/20250005541)
+- **Publication:** <a href="https://ntrs.nasa.gov/citations/20250005541" target="_blank" rel="noopener noreferrer">Chatham County Health & Air Quality: Mapping Urban Heat to Identify Priority Mitigation Areas in Chatham County, Georgia</a> <br>
 
 <br>
 
@@ -79,9 +79,9 @@ My work with NASA DEVELOP. Quantifying and mapping urban heat mitigation in Chat
 <br>
 
 {% include figure.html
-   src="/assets/figures/invest_map.png"
+   src="/assets/figures/InVEST_map.png"
    caption="The heat mitigation capacity of Chatham County, Georgia. Heat mitigation index calculated using InVEST Urban Cooling Model."
-   project_url="/projects/urban-heat-mitigation"
+   project_url="/projects/urban-heat"
    project_text="Urban Heat Mitigation"
 %}
 
