@@ -25,16 +25,16 @@ title: home
 <br>
 
 ## Featured Projects
-(See full list of projects [here](projects))
+(See full list of projects [here]({{ '/projects' | relative_url }})
 
-### 1) [NASA GLOBE](projects/nasa-globe)
+### 1) [NASA GLOBE]({{ '/projects/nasa-globe' | relative_url }})
 - **Publication:** in progress...check back soon
 
-### 2) [Albatross Flight Performance](projects/albatross-flight)
+### 2) [Albatross Flight Performance]({{ '/projects/albatross-flight' | relative_url }})
 My Masters thesis work on the effects of winds and waves on albatross flight performance.
 - **Publication:** <a href="https://doi.org/10.1186/s40462-025-00614-w" target="_blank" rel="noopener noreferrer">Differential impacts of wind and waves on albatross flight performance in two ocean basins</a> <br>
 
-### 3) [Urban Heat Mitigation](projects/urban-heat)
+### 3) [Urban Heat Mitigation]({{ '/projects/urban-heat' | relative_url }}) 
 My work with NASA DEVELOP. Quantifying and mapping urban heat mitigation in Chatham County, Georgia
 - **Publication:** <a href="https://ntrs.nasa.gov/citations/20250005541" target="_blank" rel="noopener noreferrer">Chatham County Health & Air Quality: Mapping Urban Heat to Identify Priority Mitigation Areas in Chatham County, Georgia</a> <br>
 
