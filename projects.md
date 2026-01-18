@@ -5,31 +5,31 @@ title: Portfolio
 
 ## Projects
 
-### - [NASA GLOBE](nasa-globe)
+### - [NASA GLOBE](projects/nasa-globe)
 Analysis for environmental citizen science data.
 - Feb 2025 - Present
 - Research Associate @ The CUNY Advanced Science Research Center
 - **Publication:** in progress...check back soon
 
-### - [Albatross Flight Performance](albatross-flight)
+### - [Albatross Flight Performance](projects/albatross-flight)
 My Master's thesis about the effects of winds and waves on albatross flight performance.
 - Aug 2022 - Dec 2025
 - Graduate Research Assistant @ Stony Brook University
 - **Publication:** <a href="https://doi.org/10.1186/s40462-025-00614-w" target="_blank" rel="noopener noreferrer">Differential impacts of wind and waves on albatross flight performance in two ocean basins</a> <br>
 
-### - [Urban Heat Mitigation](urban-heat)
+### - [Urban Heat Mitigation](projects/urban-heat)
 My NASA DEVELOP project quantifying and mapping urban heat mitigation in Chatham County, Georgia
 - Jan - Apr 2025
 - DEVELOP Researcher @ NASA
 - **Publication:** <a href="https://ntrs.nasa.gov/citations/20250005541" target="_blank" rel="noopener noreferrer">Chatham County Health & Air Quality: Mapping Urban Heat to Identify Priority Mitigation Areas in Chatham County, Georgia</a> <br>
 
-### - [Marine Ecosystem Indicators](nyb)
+### - [Marine Ecosystem Indicators](projects/nyb)
 A quantitative analysis of the health of the New York Bight in conjuction with the NY State Department of Environmental Conservation.
 - Sep - Dec 2024
 - Graduate Research Assistant @ Stony Brook University
 - **Report**: <a href="{{ '/assets/files/NYB_indicator_report_2024.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">New York Bight Indicator Report 2024</a> <br>
 
-### - [Avian Parasitology](avian-parasitology)
+### - [Avian Parasitology](projects/avian-parasitology)
 Tracking the community composition of malarial parasites infection common yellowthroat birds
 - Sep 2018 - May 2021
 - Undergraduate Research Assistant @ Skidmore College
