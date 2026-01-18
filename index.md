@@ -25,7 +25,7 @@ title: home
 <br>
 
 ## Featured Projects
-(See full list of projects [here]({{ '/projects' | relative_url }})
+(See full list of projects [here]({{ '/projects' | relative_url }}))
 
 ### 1) [NASA GLOBE]({{ '/projects/nasa-globe' | relative_url }})
 - **Publication:** in progress...check back soon
