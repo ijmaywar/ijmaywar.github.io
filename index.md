@@ -3,8 +3,6 @@ layout: default
 title: home
 ---
 
-## About Me
-
 <div style="display: flex; align-items: flex-start; gap: 0.25rem;">
 
   <img src="{{ '/assets/images/headshot_square.jpeg' | relative_url }}"
@@ -18,8 +16,7 @@ title: home
 </div>
 
 <p align="center">
-    I am a Research Associate at the CUNY Advanced Science Research Center. 
-    I use Python, R and SQL for data analysis and visualization.
+    Data scientist/quantitative researcher (Pyhton, R, and SQL)
 </p>
 
 <br>
