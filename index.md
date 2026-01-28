@@ -16,7 +16,8 @@ title: home
 </div>
 
 <p align="center">
-    Data scientist/quantitative researcher (Pyhton, R, and SQL)
+    <strong>Data science @ Omnicom</strong> <br>
+    Previously working in ecology/environmental research
 </p>
 
 <br>
@@ -86,10 +87,10 @@ My work with NASA DEVELOP. Quantifying and mapping urban heat mitigation in Chat
 
 ## Publications
 In prep
-- **Maywar IJ**, Low RD, Vorosmarty CJ. 2026. Case Studies of GLOBE Citizen Science Data: Challenges, Lessons Learned, and a Design Framework for the Future. *Citizen Science Theory & Practice*.
 - Littleford-Colquhoun BL, Geremia C, Sackett VI, **Maywar IJ**, Jackson A, Hoff HK, Nantais N, Anderson H, Kartzinel RY, Divoll T, Kartzinel TR. 2026. Species identity and seasonal resource fluctuations shape diet–microbiome dynamics in Yellowstone’s large herbivores. *International Society for Microbial Ecology*.
 
 In review
+- **Maywar IJ**, Low RD, Vorosmarty CJ. 2026. Case Studies of GLOBE Citizen Science Data: Challenges, Lessons Learned, and a Design Framework for the Future. *Citizen Science Theory & Practice*.
 - Hallet M, **Maywar IJ**, Phillips RA, Thorne LH. 2025. Wind, waves, and wing loading and the flight energetics of giant petrels. *Functional Ecology*.
 
 Published
