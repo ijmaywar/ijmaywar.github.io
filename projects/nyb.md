@@ -20,12 +20,11 @@ See our report for this project <a href="{{ '/assets/files/NYB_indicator_report_
 
 {% include figure.html
    src="/assets/images/paumanok_outside.JPG"
-   caption="Outside the R/V paumanok."
 %}
 
 {% include figure.html
    src="/assets/images/paumanok_inside.JPG"
-   caption="Inside the R/V paumanok."
+   caption="Aboard the R/V paumanok."
 %}
 
 <br>
