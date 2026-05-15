@@ -1,3 +1,3 @@
 # Ian Maywar
 
-    Projects 
+Repo for my portfolio website. 

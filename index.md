@@ -16,7 +16,7 @@ title: home
 </div>
 
 <p align="center">
-    <strong>Data science @ Omnicom</strong> <br>
+    <strong>Data science for L'Oréal @ Omnicom</strong> <br>
     Previously working in ecology/environmental research
 </p>
 
@@ -91,9 +91,9 @@ In prep
 
 In review
 - **Maywar IJ**, Low RD, Vorosmarty CJ. 2026. Case Studies of GLOBE Citizen Science Data: Challenges, Lessons Learned, and a Design Framework for the Future. *Citizen Science Theory & Practice*.
-- Hallet M, **Maywar IJ**, Phillips RA, Thorne LH. 2025. Wind, waves, and wing loading and the flight energetics of giant petrels. *Functional Ecology*.
 
 Published
+- Hallet M, Phillips RA, **Maywar IJ**, Thorne LH. 2026. Wind, waves, and wing loading and the flight energetics of giant petrels. *Functional Ecology*. <a href="https://doi.org/10.1111/1365-2435.70352" target="_blank" rel="noopener noreferrer">https://doi.org/10.1111/1365-2435.70352</a> <br>
 - **Maywar IJ**, Phillips RA, Conners MG, Orben RA, Shaffer S, Thorne LH. 2025. Differential impacts of wind and waves on albatross energetics in two ocean basins. *Movement Ecology*. <a href="https://doi.org/10.1186/s40462-025-00614-w" target="_blank" rel="noopener noreferrer">https://doi.org/10.1186/s40462-025-00614-w</a> <br>
 - O’shea P, Lavorata A, **Maywar I**, Pearce S. Chatham County Health & Air Quality: Mapping Urban Heat to Identify Priority Mitigation Areas in Chatham County, Georgia. DEVELOP Technical Report. <a href="https://ntrs.nasa.gov/citations/20250005541" target="_blank" rel="noopener noreferrer">[link]</a> <br>
 - Nye JA, Sinnickson D, **Maywar IJ**, Thorne LH, Menz T, Meza-Fidalgo J, Keiling T, Warren J, McSweeny J. 2025, New York Bight Indicator Report 2024, Stony Brook University. <a href="{{ '/assets/files/NYB_indicator_report_2024.pdf' | relative_url }}" target="_blank" rel="noopener noreferrer">[link]</a> <br>

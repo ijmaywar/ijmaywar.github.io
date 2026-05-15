@@ -11,7 +11,7 @@ In chronological order of date finished.
 
 ### 1) <a href="{{ '/projects/nasa-globe' | relative_url }}" target="_blank">NASA GLOBE</a>
 Analysis for environmental citizen science data.
-- Feb 2025 - Present
+- Feb 2025 - Feb 2026
 - Research Associate @ The CUNY Advanced Science Research Center
 - **Publication:** in progress...check back soon
 
@@ -19,7 +19,9 @@ Analysis for environmental citizen science data.
 My Master's thesis (and publication) about the effects of winds and waves on albatross flight performance.
 - Aug 2022 - Dec 2025
 - Graduate Research Assistant @ Stony Brook University
-- **Publication:** <a href="https://doi.org/10.1186/s40462-025-00614-w" target="_blank" rel="noopener noreferrer">Differential impacts of wind and waves on albatross flight performance in two ocean basins</a> <br>
+- **Publications:** 
+  - <a href="https://doi.org/10.1186/s40462-025-00614-w" target="_blank" rel="noopener noreferrer">Differential impacts of wind and waves on albatross flight performance in two ocean basins</a> <br>
+  - <a href="https://doi.org/10.1111/1365-2435.70352" target="_blank" rel="noopener noreferrer">Wind, waves, and wing loading and the flight energetics of giant petrels.</a> 
 
 ### 3) <a href="{{ '/projects/urban-heat' | relative_url }}" target="_blank">Urban Heat Mitigation</a>
 My NASA DEVELOP project quantifying and mapping urban heat mitigation in Chatham County, Georgia
