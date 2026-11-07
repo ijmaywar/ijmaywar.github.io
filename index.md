@@ -5,7 +5,7 @@ title: home
 
 <div style="display: flex; align-items: flex-start; gap: 0.25rem;">
 
-  <img src="{{ '/assets/images/headshot_square.jpeg' | relative_url }}"
+  <img src="{{ '/assets/images/headshot_2_square.JPG' | relative_url }}"
        alt="Headshot"
        width="310">
   
@@ -15,12 +15,7 @@ title: home
 
 </div>
 
-<p align="center">
-    <strong>Data science for L'Oréal @ Omnicom</strong> <br>
-    Previously working in ecology/environmental research
-</p>
-
-<br>
+<div style="height: 1.5rem;"></div>
 
 ## Featured Projects
 (See full list of projects [here]({{ '/projects' | relative_url }}))
@@ -35,6 +30,20 @@ My Masters thesis work on the effects of winds and waves on albatross flight per
 ### 3) [Urban Heat Mitigation]({{ '/projects/urban-heat' | relative_url }}) 
 My work with NASA DEVELOP. Quantifying and mapping urban heat mitigation in Chatham County, Georgia
 - **Publication:** <a href="https://ntrs.nasa.gov/citations/20250005541" target="_blank" rel="noopener noreferrer">Chatham County Health & Air Quality: Mapping Urban Heat to Identify Priority Mitigation Areas in Chatham County, Georgia</a> <br>
+
+<br>
+
+<div style="display: flex; align-items: flex-start; gap: 0.25rem;">
+
+  <img src="{{ '/assets/images/heart_lake_square.jpeg' | relative_url }}"
+       alt="Heart lake"
+       width="310">
+  
+  <img src="{{ '/assets/images/paumanok_inside_square.JPG' | relative_url }}"
+     alt="Paumanok Inside"
+     width="310">
+
+</div>
 
 <br>
 
@@ -88,9 +97,11 @@ My work with NASA DEVELOP. Quantifying and mapping urban heat mitigation in Chat
 ## Publications
 In prep
 - Littleford-Colquhoun BL, Geremia C, Sackett VI, **Maywar IJ**, Jackson A, Hoff HK, Nantais N, Anderson H, Kartzinel RY, Divoll T, Kartzinel TR. 2026. Species identity and seasonal resource fluctuations shape diet–microbiome dynamics in Yellowstone’s large herbivores. *International Society for Microbial Ecology*.
+- Reed CG, Khasoha LM, Palmer-Brown BR, Ang’ila RO, Lokeny P, Busenei G, Hassan A, Kurukura S, **Maywar IJ**, Miano C, Nantais N, Palmer TM, Pringle RM, Goheen JR, Kartzinel TR. 2026. Competitive release restructures small mammal trophic networks following large herbivore exclusion in a Kenyan savanna. *Ecology*.
 
 In review
 - **Maywar IJ**, Low RD, Vorosmarty CJ. 2026. Case Studies of GLOBE Citizen Science Data: Challenges, Lessons Learned, and a Design Framework for the Future. *Citizen Science Theory & Practice*.
+- Thorne LH, **Maywar IJ**, Hallet M, de Jersey A, Orben RA, Phillips RA. 2026. Wind shapes albatross ecology and life history through synergistic effects on flight costs and travel speed. *PNAS*.
 
 Published
 - Hallet M, Phillips RA, **Maywar IJ**, Thorne LH. 2026. Wind, waves, and wing loading and the flight energetics of giant petrels. *Functional Ecology*. <a href="https://doi.org/10.1111/1365-2435.70352" target="_blank" rel="noopener noreferrer">https://doi.org/10.1111/1365-2435.70352</a> <br>
